@@ -1,6 +1,9 @@
 module.exports = {
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["Poppins", "Noto Sans JP", "sans-serif"],
+      },
       colors: {
         tlgray: {
           200: "#E5E7EB",
